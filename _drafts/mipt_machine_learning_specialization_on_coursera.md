@@ -30,7 +30,7 @@ The course proceeds with a detailed explanation of linear models, visualization 
 
 I really enjoyed the concept of decision trees and the idea of combining them into random forests followed by the gradient boosting algorithm. The students have to build the latter one themselves before being introduced to [XGBoost](https://xgboost.readthedocs.io).
 
-Even through neural networks were introduced in this course, I can't say that I fully understood the concept at that time. It's only now, after I finished the [Deep Learning Nanodegree Foundation on Udacity](https://in.udacity.com/course/deep-learning-nanodegree-foundation--nd101/), the lecture paper made complete sense to me. However, it's fair to say that the authors of this course mentioned that neural networks deserved an entirely separate course and they didn't want to spend much time on this topic.
+Even through neural networks were introduced in this course, I can't say that I fully understood the concept at that time. It's only now, after I finished the [Deep Learning Nanodegree Foundation on Udacity](https://in.udacity.com/course/deep-learning-nanodegree-foundation--nd101/), the lecture paper made complete sense to me. In the spirit of [The Phystech System](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology#The_Phystech_System), a neural network was was presented as a universal model due to its ability to approximate any topological surface. Russian mathematician Andrey Kolmogorov [proved](https://en.wikipedia.org/wiki/Hilbert%27s_thirteenth_problem) such theorem in 1957. The rest of the lecture covered neural networks with fully-connected layers, dropout as a regularization method, and some practical recommendations. It's fair to say that the authors of this course mentioned that neural networks deserved an entirely separate course and they didn't want to spend much time on this topic.
 
 Nearest Neighbour method and Support Vector Machine (SVM) were introduced closer to the end of the course. While SVM was explained in great detail, including SVM with non-linear kernels, it left me with an impression that this technology has been superseeded by random forests classifiers. It's true that decision trees and random forests are easier to get started with for a beginner. They require much less parameters to tune - basically, just the tree depth and the number of trees. SVM on the other hand, while requiring a fair amount of parameter tuning, can get by with much less amount of data.
 
@@ -39,7 +39,7 @@ Bayesian models might not be the most popular ones in machine learning but they 
 Looking back at the specialization as a whole, I found this particular course incredibly interesting. It even motivated me to buy ["The Elements of Statistical Learning" by T.Hastie, R.Tibshirani, J.Friedman](https://statweb.stanford.edu/~tibs/ElemStatLearn/) - the classics on Machine Learning - to study the topic further.
 
 ### 3. Unsupervised Machine Learning
-
+Unsupervised Machine Learning was introduced with clusterization. 
 
 ### 4. Statistics for Data Analysis
 
