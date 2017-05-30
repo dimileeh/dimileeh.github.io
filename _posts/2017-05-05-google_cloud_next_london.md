@@ -22,7 +22,7 @@ At the event, I learned about some Cloud products that sparked my interest.
 
 * [Firebase Database](https://firebase.google.com/) for real-time data synchronisation.
 
-* [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/) represents a serverless Tensorflow. I have already tried it in action on [YouTube-8M Video Understanding Kaggle challenge](https://www.kaggle.com/c/youtube8m). All you need to do is to provide a configuration file for an environment and a Python script with a TensoFlow model in it. Upon firing a job, Google Cloud ML Engine will provision a virtual machine with the defined configuration, feed the logs either to the console or a web page, and save the learned model and any output (predictions for example) to the Cloud Storage.
+* [Google Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/) represents a serverless TensorFlow. I have already tried it in action on [YouTube-8M Video Understanding Kaggle challenge](https://www.kaggle.com/c/youtube8m). All you need to do is to provide a configuration file for an environment and a Python script with a TensoFlow model in it. Upon firing a job, Google Cloud ML Engine will provision a virtual machine with the defined configuration, feed the logs either to the console or a web page, and save the learned model and any output (predictions for example) to the Cloud Storage.
 
 * [Cloud Spanner](https://cloud.google.com/spanner/) - horizontally scalable relational database. With this great product, Google is aiming to revive interest in SQL databases by combining the convenience of predefined schema structure of traditional SQL and the scalability and flexibility of NoSQL databases.
 
