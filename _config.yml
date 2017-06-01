@@ -26,8 +26,8 @@ github_username:  dlihhats
 
 comments:
   provider: "disqus"
-  disqus:
-    shortname: "dmitri-lihhatsov-blog"
+disqus:
+  shortname: "dmitri-lihhatsov-blog"
 
 # Build settings
 markdown: kramdown
