@@ -3,6 +3,7 @@ layout: post
 title:  "Google Cloud Next London"
 categories: google
 tags: machine learning, cloud, serverless, deep learning
+comments: true
 ---
 On 3-4 May 2017, Google hosted its largest event in the UK - [Google Cloud Next London](https://g.co/nextlondon). The event took place at ExCel and gathered around 4,500 developers, IT professionals, entrepreneurs, executives and analysts. An introductory video invited participants to imagine the future that we all can create by harnessing the power of the Cloud and intelligent business models fuelled by the plethora of data that companies have been generating. Diane Greene - Senior Vice President - promptly reassured everyone that the data stored in the Cloud remains the property of the companies and that Google doesn't use it for its purposes.
 
@@ -31,3 +32,27 @@ At the event, I learned about some Cloud products that sparked my interest.
 Overall, Google Cloud Next made a positive impression on me. From such little things as nice food at the venue and "Hosting you is kind of our thing" on the wall to the scale of the problems that Google is working on. I think Google is moving in the right direction and has the right idea that consists of providing the businesses with cutting edge technologies to help them solve the world problems.
 
 All sessions can now be watched on the [Google website](https://cloudonair.withgoogle.com/events/next-live-emea-2017).
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = {% page.url %};  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = {% page.id %}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://dmitri-lihhatsov-blog.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
