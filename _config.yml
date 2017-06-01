@@ -26,7 +26,7 @@ github_username:  dlihhats
 
 comments:
   provider: "disqus"
-  discus:
+  disqus:
     shortname: "dmitri-lihhatsov-blog"
 
 # Build settings
