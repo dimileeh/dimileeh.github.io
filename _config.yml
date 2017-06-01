@@ -24,6 +24,11 @@ url: "https://dlihhats.github.io" # the base hostname & protocol for your site, 
 twitter_username: dmlih
 github_username:  dlihhats
 
+comments:
+  provider: "disqus"
+  discus:
+    shortname: "dmitri-lihhatsov-blog"
+
 # Build settings
 markdown: kramdown
 theme: minima
