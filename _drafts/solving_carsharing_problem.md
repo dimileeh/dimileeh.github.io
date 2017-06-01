@@ -3,6 +3,7 @@ layout: post
 title:  "The Future of Transportation"
 categories: transportation
 tags: self-driving cars, automation, TaaS
+comments: true
 ---
 A [report](https://www.rethinkx.com/s/RethinkX-Report_050917-1.pdf) released by RethinkX - a think tank - in May 2017 predicts a disruptive change that TaaS - Transport-as-a-Service - will bring in thirteen years from now. Being quite radical in its predictions, it is different to what other analysts report in their forecasts. However, disruptive changes are called so because few could have predicted them coming, and therefore the report produced by RethinkX deserves attention.
 
