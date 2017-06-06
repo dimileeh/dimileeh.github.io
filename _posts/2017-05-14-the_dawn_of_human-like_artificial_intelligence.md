@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Dawn of the Human-Like Artificial Intelligence"
+summary: "DeepMind's new creation - differentiable neural computer - exhibits human-like logic and reasoning"
 categories: ai
 tags: machine learning, deep learning, artificial intelligence, DeepMind
 comments: true

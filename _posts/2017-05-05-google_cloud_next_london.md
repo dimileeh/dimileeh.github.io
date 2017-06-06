@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Google Cloud Next London"
+summary: "Londoners get a chance to learn about Cloud offerings and Google's dive into AI" 
 categories: google
 tags: machine learning, cloud, serverless, deep learning
 comments: true
