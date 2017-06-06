@@ -21,7 +21,7 @@ Companies around the world are already reaping the benefits of AI-infused market
 
 According to a strategy research firm [Innosight][3], the average lifespan of a typical company is down from 67 years to just 18 – and at current churn rates, 75% of the S&P 500 will be replaced by 2027. Disruption is the primary factor behind this trend. Companies that embrace digital transformation dramatically increase their chances of survival while watching customers deserting the ones that are lagging behind.
 
-[1]: (https://hbr.org/sponsored/2016/04/marketing-in-the-drivers-seat-using-analytics-to-create-customer-value)
-[2]: (https://albert.ai/forrester-study-ai-marketing/)
-[3]: (https://www.innosight.com/wp-content/uploads/2016/08/creative-destruction-whips-through-corporate-america_final2015.pdf)
-[4]: (https://hbr.org/2017/05/how-harley-davidson-used-predictive-analytics-to-increase-new-york-sales-leads-by-2930)
+[1]: https://hbr.org/sponsored/2016/04/marketing-in-the-drivers-seat-using-analytics-to-create-customer-value
+[2]: https://albert.ai/forrester-study-ai-marketing/
+[3]: https://www.innosight.com/wp-content/uploads/2016/08/creative-destruction-whips-through-corporate-america_final2015.pdf
+[4]: https://hbr.org/2017/05/how-harley-davidson-used-predictive-analytics-to-increase-new-york-sales-leads-by-2930
