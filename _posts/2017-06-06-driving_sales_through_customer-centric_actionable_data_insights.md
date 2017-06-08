@@ -2,7 +2,7 @@
 layout: post
 title:  "Driving Sales through Customer-Centric Actionable Data Insights"
 summary: "How AI helps marketers achieve new heights in revenue and lead generation"
-categories: digital marketing
+categories: digital_marketing
 tags: digital marketing, analytics, artificial intelligence
 comments: true
 ---
