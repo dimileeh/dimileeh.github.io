@@ -8,7 +8,7 @@ In this post, I'd like to share my experience of getting into a fascinating fiel
 
 I started the specialization in April 2016 and finished in December 2016. With a full-time job and warm summer days, I missed a couple of deadlines and graduated in 8 months. Nevertheless, I'm quite proud of this achievement, especially because it felt a bit like getting back to my life as a student of one of [the best universities in the world][mipt-best].
 
-What I found exceptional about this particular specialization is the fact that almost all lessons were accompanied with a nicely formatted PDF containing lecture notes. Comparing it with a couple of Nanodegrees on Udacity that I'm in progress of pursuing, I can say that it's probably one of the very few programs created with such fantastic diligence and attention to details. I learn by reading, so these assets were of great value to me, and I keep referring back to them from time to time.
+What I found exceptional about this particular specialization is the fact that almost all lessons were accompanied with a nicely formatted PDF document containing lecture notes. Comparing it with a couple of Nanodegrees on Udacity that I'm in progress of pursuing, I can say that it's probably one of the very few programs created with such fantastic diligence and attention to details. I learn by reading, so these assets were of great value to me, and I keep referring back to them from time to time.
 
 The specialization is split into six courses as follows:
 1. [Maths and Python for Data Analysis](#1-maths-and-python-for-data-analysis)
