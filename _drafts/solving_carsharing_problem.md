@@ -7,7 +7,7 @@ comments: true
 ---
 A [report](https://www.rethinkx.com/s/RethinkX-Report_050917-1.pdf) released by RethinkX - a think tank - in May 2017 predicts a disruptive change that TaaS - Transport-as-a-Service - will bring in thirteen years from now. Being quite radical in its predictions, it is different to what other analysts report in their forecasts. However, disruptive changes are called so because few could have predicted them coming, and therefore the report produced by RethinkX deserves attention.
 
-By 2030, the report says, 95% of passenger miles travelled across the United States will be done by self-driving electric vehicles. After the first autonomous cars become publicly available and fully legal by 2021, the fast pace of adoption will be guaranteed by a much lower cost of renting such method of transportation on an ad-hoc basis than owning one.
+By 2030, the report says, 95% of passenger miles travelled across the United States will be done by self-driving electric vehicles. After the first autonomous cars become publicly available and fully legal by 2021, the fast pace of adoption will be guaranteed by a much lower cost of renting such method of transportation on an ad-hoc basis compared with owning one.
 
 "The only question about TaaS is who will be the innovators and who will be the laggards, not whether this disruption will happen."
 

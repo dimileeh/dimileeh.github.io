@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Dmitri Lihhatsov](/images/me.png "Dmitri Lihhatsov")
+![Dmitri Lihhatsov](/images/me_circle.png "Dmitri Lihhatsov")
 
 My name is Dmitri Lihhatsov, I'm an entrepreneur and a consultant. I started this blog to establish my personal brand and find out what I am capable of. By exploring ideas from disciplines ranging from artificial intelligence and natural science to psychology and economics, I aim at finding interconnections between them because, quoting a biologist Julian Huxley, "Life is just one damn relatedness after another".
 
