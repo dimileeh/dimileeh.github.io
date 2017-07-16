@@ -1,2 +1,2 @@
 # dlihhats.github.io
-Just a placeholder for now
+Smart&Nimble blog.
