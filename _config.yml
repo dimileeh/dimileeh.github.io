@@ -25,6 +25,8 @@ url: "https://dlihhats.github.io" # the base hostname & protocol for your site, 
 twitter_username: dmlih
 github_username:  dlihhats
 
+google_analytics: UA-100590015-1
+
 comments:
   provider: "disqus"
 disqus:
