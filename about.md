@@ -12,4 +12,4 @@ Occasionally, I make a deep dive into a particular discipline. As of 2016, I hav
 
 I am also interested in self-development and personal productivity. Having been influenced at first by Stephen Covey's "7 Habits of Highly Effective People", I got into the world of self-help literature and biographies. Two living people with whom I am impressed the most are Elon Musk, the founder of such companies as Tesla and SpaceX, and Charlie Munger, a businessman and investor, Warren Buffet's life-long partner.
 
-More about me on [Facebook](https://www.facebook.com/dmitri.lihhatsov), [Twitter](https://www.twitter.com/dmlih), [Github](https://www.github.com/dlihhats), and [Strava](https://www.strava.com/athletes/dmlih).
+More about me on [Facebook](https://www.facebook.com/dmitri.lihhatsov), [Twitter](https://www.twitter.com/dimileeh), [Github](https://www.github.com/dimileeh), and [Strava](https://www.strava.com/athletes/dmlih).

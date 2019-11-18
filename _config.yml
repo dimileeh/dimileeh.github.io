@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Smart&Nimble blog
+title: Smart&Nimble Blog
 author: Dmitri Lihhatsov
 email: dmitri@smartandnimble.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -21,9 +21,9 @@ description: > # this means to ignore newlines until "baseurl:"
   findings with the world. I write about artificial intelligence, IT,
   psychology and personal development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dlihhats.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dmlih
-github_username:  dlihhats
+url: "https://dimileeh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: dimileeh
+github_username:  dimileeh
 
 google_analytics: UA-100590015-1
 
