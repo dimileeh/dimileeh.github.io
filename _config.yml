@@ -25,6 +25,8 @@ url: "https://dimileeh.github.io" # the base hostname & protocol for your site, 
 twitter_username: dimileeh
 github_username:  dimileeh
 
+show_excerpts: true
+
 google_analytics: UA-100590015-1
 
 comments:
@@ -42,7 +44,7 @@ exclude:
   - Gemfile.lock
 
 minima:
-  social_links:
+  social:
     twitter: dimileeh
     facebook: dmitri.lihhatsov
     instagram: dimileeh
