@@ -215,6 +215,10 @@ pre {
   }
 
   li + li {
-    padding-top: 5px;
+    padding-right: 10px;
   }
+}
+
+.social-media-list li {
+	display: inline-flex;
 }
